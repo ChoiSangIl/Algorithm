@@ -3,7 +3,9 @@
 
 ## 폴더명 명명 규칙
 * 프로그래머스 코딩 테스트 연습문제  
-https://programmers.co.kr/learn/courses/30/lessons/43164 -> programmers_C30_L43164
+https://programmers.co.kr/learn/courses/30/lessons/43164 -> programmers_C30_L43164_문제명
+* 백준  
+https://www.acmicpc.net/problem/2178 -> baekjoon_problem_2178_문제명
 
 ## DFS, BFS 뿌시기
 * [프로그래머스 네트워크](https://github.com/ChoiSangIl/algorithm/tree/master/BFS%2CDFS/programmers_C30_L43162_networks)
