@@ -11,3 +11,5 @@ https://www.acmicpc.net/problem/2178 -> baekjoon_problem_2178_문제명
 * [프로그래머스 네트워크](https://github.com/ChoiSangIl/algorithm/tree/master/BFS%2CDFS/programmers_C30_L43162_networks)
 * [프로그래머스 단어변환](https://github.com/ChoiSangIl/algorithm/tree/master/BFS%2CDFS/programmers_C30_L43163_words)
 * [프로그래머스 여행경로](https://github.com/ChoiSangIl/algorithm/tree/master/BFS%2CDFS/programmers_C30_L43164_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C)
+* [백준 미로탐색(BFS)](https://github.com/ChoiSangIl/algorithm/tree/master/BFS%2CDFS/baekjoon_problem_2178_%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89)
+
