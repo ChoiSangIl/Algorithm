@@ -18,3 +18,6 @@ https://level.goorm.io/exam/43082/%EC%B5%9C%EB%8B%A8-%EA%B1%B0%EB%A6%AC-%EA%B5%A
 * [백준 바이러스](https://github.com/ChoiSangIl/algorithm/tree/master/BFS%2CDFS/baekjoon_problem_2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4)
 * [구름 level 최단거리 구하기](https://github.com/ChoiSangIl/algorithm/tree/master/BFS%2CDFS/goorm_exam_43082_%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 * [구름 level 나이트의 이동](https://github.com/ChoiSangIl/algorithm/tree/master/BFS%2CDFS/goorm_exam_43128_%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99)
+
+## 덤벼라 완전탐색
+* [프로그래머스 모의고사](https://github.com/ChoiSangIl/algorithm/tree/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/programmers_C30_L42840_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
