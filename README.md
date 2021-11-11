@@ -25,3 +25,6 @@ https://level.goorm.io/exam/43082/%EC%B5%9C%EB%8B%A8-%EA%B1%B0%EB%A6%AC-%EA%B5%A
 * [프로그래머스 모의고사](https://github.com/ChoiSangIl/algorithm/tree/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/programmers_C30_L42840_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
 * [프로그래머스 소수찾기(21/11/04)](https://github.com/ChoiSangIl/algorithm/tree/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/programmers_C30_L42839_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0)
 * [구름 level 놀이공원(21/11/05)](https://github.com/ChoiSangIl/algorithm/tree/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/goorm_exam_88520_%EB%86%80%EC%9D%B4%EA%B3%B5%EC%9B%90)
+
+## 뿌셔버려 이분탐색
+* [프로그래머스 입국심사(21/11/11)](https://github.com/ChoiSangIl/algorithm/tree/master/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/programmers_C30_L43238_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC)
